@@ -95,9 +95,9 @@ RoToRBot/
 
 ```bash
 cd design
-python layout.py                  # standard library only; prints every number and writes numbers.json
+python layout.py                  # standard library only
 pip install -r requirements.txt   # CadQuery
-python cad_detail.py              # writes build/RoToRBot_assembly.step and build/stl/*.stl
+python cad_detail.py              
 ```
 
 Change a mass or a position in `layout.py` and run both scripts again. The centre of gravity, the slope limit, the torque figures and the CAD all update together.
