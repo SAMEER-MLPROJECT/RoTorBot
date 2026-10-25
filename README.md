@@ -21,11 +21,11 @@ A 640 mm polycarbonate ball rolls on a rubber traction band. Inside it, a pendul
 | Outer diameter | 640 mm (2.10 ft); rule window 610 to 762 mm |
 | Width over camera pods | 805 mm (pods protrude 83 mm, limit 152 mm) |
 | Total mass | 14.0 kg |
-| Centre of gravity | 116 mm below the sphere centre (X −0.2, Y −2.4, Z −116.2 mm) |
+| Centre of gravity | 116 mm below the sphere centre (X -0.2, Y -2.4, Z -116.2 mm) |
 | Pendulum moment Σm·l | 1.625 kg·m |
 | Steady climb limit | 18.3° at the 60° pendulum swing limit (course ramp 15°) |
 | Shell torque | 12.0 N·m on 15°; 17.5 N·m design peak |
-| Per motor | 3.1 N·m at 134 rpm, through HTD-5M 18T→54T belts (3:1) |
+| Per motor | 3.1 N·m at 134 rpm, through HTD-5M 18T->54T belts (3:1) |
 | Turning radius | about 1.5 m with the sled at ±70 mm |
 | Pendulum rocking period | 1.6 s |
 | Battery | Li-ion 6S2P, 21.6 V, 6 Ah, 30 A BMS, 25 A fuse |
