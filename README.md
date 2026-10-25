@@ -10,7 +10,7 @@ Team **EigenThinker** · Team ID `TM-CB1C8E0CEAA`
 
 A 640 mm polycarbonate ball rolls on a rubber traction band. Inside it, a pendulum core hangs from a fixed axle that never rotates. Two camera pods sit on the ends of that axle, outside the shell, and stay level while the ball rolls underneath them.
 
-> **Status: design phase (Round 1).** Everything here comes from CAD and calculation. No parts have been bought yet. The STEP model, the scripts that produce every number, and the frozen pin map are the evidence for Round 1.
+> **Status: design phase (Round 1).** Everything here comes from CAD and calculation. Parts have not been bought entirely yet. The STEP model, the scripts that produce every number, and the frozen pin map are the evidence for Round 1.
 
 ---
 
@@ -106,12 +106,10 @@ Change a mass or a position in `layout.py` and run both scripts again. The centr
 
 - [x] Round 1: CAD abstract, full assembly, mass budget and CoG, power, control and autonomy architecture
 - [x] Pin map frozen (ET-RRB-E01)
-- [ ] Buy drive train, sled and electronics; bench-test the kill chain (K1/K2) first
+- [ ] Buy complete components ( current : extraction from old electronics ), sled and electronics; bench-test the kill chain (K1/K2) first
 - [ ] ESP32-S3 control firmware: 1 kHz loops, torque-vector mixer, watchdog
 - [ ] Pi 5 vision: cone detection, lane filter, Gate-and-Cue, pendulum dash timing
 - [ ] Ramp and pendulum trials on a mock course
 - [ ] Kandó-inspired capacitor network bench prototype (separate from the competition robot)
 
-## License
 
-Released under the MIT License. See [LICENSE](LICENSE).
