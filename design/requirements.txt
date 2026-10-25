@@ -1,0 +1,3 @@
+# layout.py needs only the Python standard library
+# cad_detail.py needs CadQuery
+cadquery>=2.4
