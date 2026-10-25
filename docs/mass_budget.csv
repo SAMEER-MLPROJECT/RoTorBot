@@ -1,0 +1,34 @@
+item,group,mass_kg,centre_x_mm,centre_y_mm,centre_z_mm,note
+"PC hemispheres x2 (640 OD, 2 mm)",rotating shell,3.069,0,0,0,thermoformed polycarbonate
+Equator flange ring + M4 bolts,rotating shell,0.300,0,0,0,"internal, flush outside"
+Traction band 60 x 2 mm rubber,rotating shell,0.270,0,0,0,over the seam
+Pole hubs x2 (6805 bearing + 54T pulley),rotating shell,0.600,0,0,0,bolted to the poles
+Fixed shaft 25 x 2.5 Al tube,pendulum / axle,0.350,0,0,0,hollow: camera cables run inside
+"Camera pod L (camera, window, sockets)",pendulum / axle,0.120,0,365.0,0,outside the shell
+"Camera pod R (camera, window, sockets)",pendulum / axle,0.120,0,-365.0,0,outside the shell
+Shaft levelling servo + gear (inside),pendulum / axle,0.120,0,105.0,-35.0,keeps pods level
+"Side plate L, 4 mm Al",pendulum / axle,0.280,0,130.0,-82.0,hangs from shaft clamp
+"Side plate R, 4 mm Al",pendulum / axle,0.280,0,-130.0,-82.0,hangs from shaft clamp
+Deck A (compute),pendulum / axle,0.200,0,0,-60.0,
+Deck B (power),pendulum / axle,0.200,0,0,-125.0,
+Raspberry Pi 5 + active cooler,pendulum / axle,0.075,-10.0,-45.0,-45.0,vision
+ESP32-S3 controller,pendulum / axle,0.015,45.0,75.0,-52.0,real-time control
+BNO085 IMU,pendulum / axle,0.005,45.0,20.0,-56.0,near the shaft
+Dual 20 A motor driver,pendulum / axle,0.110,0,55.0,-110.0,
+Buck 24->5 V 5.5 A (logic),pendulum / axle,0.030,50.0,-70.0,-115.0,
+Buck 24->6 V 3 A (servos),pendulum / axle,0.030,-50.0,-70.0,-115.0,
+Relays K1 main + K2 kill,pendulum / axle,0.080,0.0,-40.0,-108.0,"24 V coil, 40 A"
+2.4 GHz kill receiver,pendulum / axle,0.015,-50.0,55.0,-115.0,independent of Pi/ESP32
+Fuse 25 A + connectors,pendulum / axle,0.030,-50.0,10.0,-115.0,
+Wiring harness,pendulum / axle,0.300,0,0,-100.0,
+Fasteners and misc (contingency),pendulum / axle,0.300,0,0,-100.0,
+"Drive motor L (45 mm planetary, encoder)",pendulum / axle,0.700,0,205.0,-100.0,
+"Drive motor R (45 mm planetary, encoder)",pendulum / axle,0.700,0,-205.0,-100.0,
+"Motor bracket, 18T pulley, belt L",pendulum / axle,0.100,0,260.0,-50.0,
+"Motor bracket, 18T pulley, belt R",pendulum / axle,0.100,0,-260.0,-50.0,
+Steering stepper NEMA 17,pendulum / axle,0.280,0,-155.0,-170.0,drives T8 lead screw
+Rails 2 x 8 mm + T8 lead screw,pendulum / axle,0.300,0,0,-170.0,
+Sled carriage (4 x LM8UU + nut),steering sled,0.180,0,0,-185.0,
+"Battery 6S2P 18650 (21.6 V, 6 Ah)",steering sled,0.750,0,0,-213.0,steering mass
+Steel ballast 130 x 130 x 30,steering sled,3.980,0,0,-251.0,"steering mass, tunable"
+TOTAL,,13.989,,,,
