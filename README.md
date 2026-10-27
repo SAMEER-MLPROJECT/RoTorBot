@@ -112,4 +112,26 @@ Change a mass or a position in `layout.py` and run both scripts again. The centr
 - [ ] Ramp and pendulum trials on a mock course
 - [ ] Kandó-inspired capacitor network bench prototype (separate from the competition robot)
 
+## OWNERSHIP
+## Original Work, Authorship and Intellectual Property
+
+**Original Creator and Author: Sameer Saawan**
+
+**Project:** RoToRBot - Techfest 2026–27 Wrecking Ball Challenge  
+**Copyright:** © 2026 Sameer Saawan. All rights reserved.
+
+RoToRBot is an engineering project whose original work has been independently developed by Sameer Saawan.
+
+The original work includes the project's engineering concepts, mechanical designs, CAD models, calculations, system architecture, software, firmware, technical implementations, documentation, and other original materials developed for the project.
+
+Sameer Saawan asserts authorship and ownership of the original work he created. Team EigenThinker identifies the team associated with the project; it does not replace attribution to Sameer Saawan as the original creator.
+
+No permission is granted to reproduce, redistribute, modify, publish, or commercially exploit the original copyrighted work without prior written authorization from the relevant rights holder, except as permitted by applicable law.
+
+The public availability of this repository does not constitute a general license to reuse its original work.
+
+Third-party materials, if any, remain subject to their respective licenses and ownership rights.
+
+See the `LICENSE` file for the applicable rights notice.
+
 
